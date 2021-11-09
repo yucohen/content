@@ -9,3 +9,6 @@ ignore=BA101
 
 [file:HelloWorld.yml]
 ignore=BA111,IN145
+
+[file:incidentfield-Hello_World_ID.json]
+ignore=IF115
